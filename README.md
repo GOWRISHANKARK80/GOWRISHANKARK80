@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gowri Shankar
-- 🌱 I’m currently learning Data Science...
+-  Hi, I’m @Gowri Shankar
+-  I’m currently learning Data Science...
 
 
 <!---
